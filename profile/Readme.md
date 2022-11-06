@@ -8,3 +8,7 @@ NFTs in today's world do not have any underlying value associated with them. The
 ## Solution
 We've build a marketplace where creator can upload the digital assest and mint an NFT associated with it.
 The buyer of the NFT will have access to the high resolution image otherwise normal user can see low resolution image.
+
+Team Member
+1. Naman Vyas
+2. Prince Raj
